@@ -17,6 +17,19 @@ Acredito que com paixão e trabalho podemos alcançar o que sonhamos e fazer mel
 Since I migrated to the technology area, I have been working with .Net and C # and SQL Server, developing projects with the ASP.NET MVC framework, using Razor, with JQuery and Bootstrap 4. Currently I work with Angular 7 and I have studied a lot for develop myself in Front-End.
 
 <!-- Desde que migrei para a área de tecnologia, venho trabalhando com .Net e C# e SQL Server, desenvolvendo projetos com o framework ASP.NET MVC, utilizando o Razor, com JQuery e Bootstrap 4. Atualmente trabalho com Angular 7 e tenho estudado bastante para desenvolver-me em Front-End. -->
+
+**Main Skills
+
+- ⚡ C#
+- ⚡ Asp.Net MVC
+- ⚡ HTML5
+- ⚡ CSS3
+- ⚡ Bootstrap 4
+- ⚡ SQL Server
+- ⚡ JavaScript
+- ⚡ JQuery
+- ⚡ Angular 2+
+
  <!-- 
 - 🔭 I’m currently working on Angular 2+
 - 🌱 I’m currently learning ...
