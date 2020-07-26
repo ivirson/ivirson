@@ -1,8 +1,7 @@
 ### Hi there, I'm Ivirson Daltro 👋
 
 
-<!-- [![Hello 👋🏻](https://res.cloudinary.com/dgqdvqyz3/image/upload/f_auto,q_100/v1594274395/social-media/gh-banner.jpg)](https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan)
--->
+[![Hello 👋🏻](https://github.com/ivirson/ivirson/blob/master/banner_ivirson.png)](https://www.linkedin.com/in/ivirson-daltro/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivirson-daltro/)](https://www.linkedin.com/in/ivirson-daltro/)
