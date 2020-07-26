@@ -1,5 +1,4 @@
-### Hi there, I'm Ivirson Daltro 👋
-
+### Hi there 👋
 
 [![Hello 👋🏻](https://github.com/ivirson/ivirson/blob/master/banner_ivirson.png)](https://www.linkedin.com/in/ivirson-daltro/)
 
@@ -18,25 +17,14 @@ Since I migrated to the technology area, I have been working with .Net and C # a
 
 <!-- Desde que migrei para a área de tecnologia, venho trabalhando com .Net e C# e SQL Server, desenvolvendo projetos com o framework ASP.NET MVC, utilizando o Razor, com JQuery e Bootstrap 4. Atualmente trabalho com Angular 7 e tenho estudado bastante para desenvolver-me em Front-End. -->
 
-**Main Skills
+#### Main Skills
 
-- ⚡ C#
-- ⚡ Asp.Net MVC
-- ⚡ HTML5
-- ⚡ CSS3
-- ⚡ Bootstrap 4
-- ⚡ SQL Server
-- ⚡ JavaScript
-- ⚡ JQuery
-- ⚡ Angular 2+
-
- <!-- 
-- 🔭 I’m currently working on Angular 2+
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Asp.Net MVC
+- HTML5
+- CSS3
+- Bootstrap 4
+- SQL Server
+- JavaScript
+- JQuery
+- Angular 2+
