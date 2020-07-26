@@ -24,3 +24,5 @@ I currently work at [Avanade](https://www.avanade.com/pt-br) as a Front-End Deve
 - JavaScript
 - JQuery
 - Angular 2+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ivirson&hide=["prs","issues"])
