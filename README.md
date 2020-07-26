@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ivirson Daltro 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivirson-daltro/)](https://www.linkedin.com/in/ivirson-daltro/)
 
@@ -6,7 +6,7 @@ Trabalhei durante pouco mais de 9 anos na indústria, como Operador de Produçã
 Mudar o rumo da carreira foi um desafio muito grande, mas que me tem permitido alcançar a satisfação profissional. Seguir evoluindo é minha maior conquista profissional. 
 Acredito que com paixão e trabalho podemos alcançar o que sonhamos e fazer melhor, não somente a nossa vida, mas a daqueles que nos cercam. Penso que somos melhores quando estamos juntos, afinal, pessoas precisam de pessoas. 
 
-- Atualmente trabalho com Angular 2+
+Desde que migrei para a área de tecnologia, venho trabalhando com .Net e C#, com SQL Server, desenvolvendo projetos com o framework ASP.NET MVC, utilizando o Razor, com JQuery e Bootstrap 4. Atualmente trabalho com Angular 7 e tenho estudado bastante para desenvolver-me em Front-End.
  <!-- 
 - 🔭 I’m currently working on Angular 2+
 - 🌱 I’m currently learning ...
