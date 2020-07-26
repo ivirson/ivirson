@@ -11,6 +11,8 @@ I believe that with passion and work we can achieve what we dream and do better,
 
 Since I migrated to the technology area, I have been working with .Net, C# and SQL Server, developing projects with the ASP.NET MVC framework, using Razor, with JQuery and Bootstrap 4. Currently I work with Angular 7 and I have studied a lot for develop myself in Front-End.
 
+I currently work at [Avanade](https://www.avanade.com/pt-br) as a Front-End Developer.
+
 #### Main Skills
 
 - C#
