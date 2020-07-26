@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Trabalhei durante pouco mais de 9 anos na indústria, como Operador de Produção.
+Mudar o rumo da carreira foi um desafio muito grande, mas que me tem permitido alcançar a satisfação profissional. Seguir evoluindo é minha maior conquista profissional. 
+Acredito que com paixão e trabalho podemos alcançar o que sonhamos e fazer melhor, não somente a nossa vida, mas a daqueles que nos cercam. Penso que somos melhores quando estamos juntos, afinal, pessoas precisam de pessoas. 
+
 <!--
 **ivirson/ivirson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
