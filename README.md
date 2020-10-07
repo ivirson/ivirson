@@ -27,3 +27,4 @@ I believe that with passion and work we can achieve what we dream and do better,
 - Angular 2+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ivirson&hide=["prs","issues"])
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivirson)
