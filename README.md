@@ -1,6 +1,10 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 ### Hi there 👋
 
 [![Hello 👋🏻](https://github.com/ivirson/ivirson/blob/master/banner_ivirson.png)](https://www.linkedin.com/in/ivirson-daltro/)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="ivirson-daltro"><a class="LI-simple-link" href='https://br.linkedin.com/in/ivirson-daltro?trk=profile-badge'>Ivirson Daltro</a></div>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivirson-daltro/)](https://www.linkedin.com/in/ivirson-daltro/)
