@@ -17,11 +17,14 @@ I believe that with passion and work we can achieve what we dream and do better,
 
 - C#
 - Asp.Net MVC
+- Asp.Net Core
+- Entity Framework
 - HTML5
 - CSS3
 - Bootstrap 4
 - SQL Server
 - JavaScript
+- TypeScript
 - JQuery
 - Angular 2+
 
