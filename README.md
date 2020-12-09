@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hello 👋🏻](https://github.com/ivirson/ivirson/blob/master/banner_ivirson.png)](https://www.linkedin.com/in/ivirson-daltro/)
+<!--[![Hello 👋🏻](https://github.com/ivirson/ivirson/blob/master/banner_ivirson.png)](https://www.linkedin.com/in/ivirson-daltro/)-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivirson-daltro/)](https://www.linkedin.com/in/ivirson-daltro/)
 
