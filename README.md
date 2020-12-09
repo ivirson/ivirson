@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 <!--[![Hello 👋🏻](https://github.com/ivirson/ivirson/blob/master/banner_ivirson.png)](https://www.linkedin.com/in/ivirson-daltro/)-->
 
