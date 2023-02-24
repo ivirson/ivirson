@@ -9,7 +9,7 @@ Changing the course of my career was a great challenge, but it has allowed me to
 
 Since I migrated to the technology area, I have been working with .Net, C# and SQL Server, developing projects with the ASP.NET MVC framework, using Razor, with JQuery and Bootstrap 4. Currently I work with Angular 7 and I have studied a lot for develop myself in Front-End.
 
-I currently work at [Avanade](https://www.avanade.com/pt-br) as a Front-End Developer.
+I currently work at [IBM](https://www.ibm.com/br-pt) as a Front-End Developer.
 
 I believe that with passion and work we can achieve what we dream and do better, not only our lives, but those of those around us. I think we are better when we are together, after all, people need people.
 
